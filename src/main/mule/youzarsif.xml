@@ -18,5 +18,6 @@ output application/json
 "Azan Happening"]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="4c19bf38-de84-413f-999a-c0b27e71d65c" message='"There is no god but Allah"'/>
 	</flow>
 </mule>
